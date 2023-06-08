@@ -1,10 +1,8 @@
 //*************************************************************************
-//Week 12 - Practice Assignment
+//Practice Assignment
 //Circle.java
 //Date: 04/26/2023
 //Author: David Taylor
-//Class: CIT 149–19Z1–78178
-//Instructor: Krishna Nandanoor
 //Purpose: The Circle class models a circle with a radius and color
 //*************************************************************************
 
